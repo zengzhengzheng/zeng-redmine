@@ -17,7 +17,7 @@ config.action_mailer.smtp_settings = {
 
   authentication: :plain,
 
-
+}
 
   # Eager load code on boot. This eager loads most of Rails and
   # your application in memory, allowing both threaded web servers
