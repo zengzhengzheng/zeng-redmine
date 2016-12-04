@@ -65,6 +65,7 @@ GEM
     globalid (0.3.7)
       activesupport (>= 4.1.0)
     htmlentities (4.3.1)
+    httpclient (2.8.2.4)
     i18n (0.7.0)
     jquery-rails (3.1.4)
       railties (>= 3.0, < 5.0)
@@ -183,6 +184,7 @@ DEPENDENCIES
   builder (>= 3.0.4)
   capybara
   coderay (~> 1.1.1)
+  httpclient
   jquery-rails (~> 3.1.4)
   mime-types (~> 3.0)
   mimemagic
