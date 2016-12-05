@@ -17,10 +17,10 @@
 /lib/redmine/scm/adapters/mercurial/redminehelper.pyo
 /log/*.log*
 /log/mongrel_debug
- 
+
 /public/dispatch.*
 
-/public/themes/*
+
 !/public/themes/alternate
 !/public/themes/classic
 !/public/themes/README
