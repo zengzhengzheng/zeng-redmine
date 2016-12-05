@@ -1,7 +1,7 @@
 production:
-  access_key_id: ENV['AWS_ACCESS_KEY_ID']
-  secret_access_key: ENV['AWS_SECRET_ACCESS_KEY']
-  bucket: ENV["AWS_BUCKET_NAME"]
+  access_key_id: AKIAJFTUE57SEBIIIO4Q
+  secret_access_key: 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
+  bucket: dasredmine
   endpoint:
   secure:
   private:
