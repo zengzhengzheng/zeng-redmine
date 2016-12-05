@@ -2,6 +2,7 @@ production:
   access_key_id: AKIAJFTUE57SEBIIIO4Q
   secret_access_key: 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
   bucket: dasredmine
+  region: eu-central-1
   endpoint:
   secure:
   private:
