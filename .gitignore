@@ -35,3 +35,6 @@
 *.rbc
 
 /.bundle
+
+# Ignore application configuration
+/config/application.yml
